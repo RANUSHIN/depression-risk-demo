@@ -357,9 +357,7 @@ st.markdown(
     <div class="um-header">
         <div class="um-kicker">Universiti Malaya · Master in Data Science</div>
         <div class="um-title">Predicting Depression Risk Among Older Adults</div>
-        <p class="um-subtitle">
-            Single-page demonstration of the proposed compact and explainable prediction framework
-        </p>
+
     </div>
     """,
     unsafe_allow_html=True,
